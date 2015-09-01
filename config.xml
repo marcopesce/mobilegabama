@@ -1,5 +1,5 @@
 <xml>
- <icon src="res/gabama-logo-fill.png" />
+ <icon src="res/icon/gabama-logo-fill.png" />
  <platform name="ios">
     <!-- images are determined by width and height. The following are supported -->
     <splash src="res/screen/ios/Default.png" width="320" height="480"/>
