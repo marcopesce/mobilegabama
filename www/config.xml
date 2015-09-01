@@ -1,15 +1,17 @@
-<xml version='1.0' encoding='utf-8'>
-<widget id="com.gabama.gabama" version="0.0.1">
-			<name>Gabama</name>
-			<description>
-					A sample test.
-			</description>
-			<author email="marco.pesce@gabama.com" href="http://www.gabama.com">
-					Gabama Team
-			</author>
-			<content src="index.html" />
-			<access origin="*" />
-</widget>
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.gabama.gabama"
+        versionCode = "10" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Gabama Mobile</name>
+
+    <description>
+        test. 
+    </description>
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="true"/>
@@ -23,4 +25,4 @@
 	<splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
 	<splash src="res/screen/ios/Default-Landscape-736h.png" width="2208" height="1242"/>
 </platform>
-</xml>
+</widget>
