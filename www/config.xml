@@ -13,6 +13,7 @@
         test. 
     </description>
 <gap:splash src="res/screen/ios/Default.png" />
+<gap:plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" version="1.2.0" />
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="true"/>
