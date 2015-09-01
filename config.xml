@@ -10,6 +10,9 @@
         <content src="index.html" />
         <access origin="*" />
 	</widget>
+	<preference name="Fullscreen" value="true" />
+	<preference name="Orientation" value="portrait" />
+	<preference name="DisallowOverscroll" value="true"/>
 	<icon src="res/icon/gabama-logo-fill.png" />
 	<platform name="ios">
     <!-- images are determined by width and height. The following are supported -->
