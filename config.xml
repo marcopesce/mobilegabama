@@ -1,6 +1,17 @@
 <xml>
- <icon src="res/icon/gabama-logo-fill.png" />
- <platform name="ios">
+	<widget id="com.gabama.gabama" version="0.0.1">
+        <name>Gabama</name>
+        <description>
+            A sample test.
+        </description>
+        <author email="marco.pesce@gabama.com" href="http://www.gabama.com">
+            Gabama Team
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+	</widget>
+	<icon src="res/icon/gabama-logo-fill.png" />
+	<platform name="ios">
     <!-- images are determined by width and height. The following are supported -->
     <splash src="res/screen/ios/Default.png" width="320" height="480"/>
     <splash src="res/screen/ios/Default@2x.png" width="640" height="960"/>
