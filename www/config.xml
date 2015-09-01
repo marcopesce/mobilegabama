@@ -12,11 +12,11 @@
     <description>
         test. 
     </description>
-<gap:splash src="res/screen/ios/Default.png" />
+<gap:splash src="../res/screen/ios/Default.png" />
 <gap:plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" version="1.2.0" />
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
-<preference name="DisallowOverscroll" value="true"/>
+<preference name="DisallowOverscroll" value="false"/>
 <icon src="res/icon/gabama-logo-fill.png" />
 <platform name="ios">
 	<!-- images are determined by width and height. The following are supported -->
