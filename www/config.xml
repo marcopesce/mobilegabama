@@ -12,6 +12,7 @@
     <description>
         test. 
     </description>
+<gap:splash src="res/screen/ios/Default.png" />
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="true"/>
