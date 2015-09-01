@@ -1,3 +1,4 @@
+<xml>
  <icon src="res/gabama-logo-fill.png" />
  <platform name="ios">
     <!-- images are determined by width and height. The following are supported -->
@@ -7,4 +8,5 @@
     <splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
     <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
     <splash src="res/screen/ios/Default-Landscape-736h.png" width="2208" height="1242"/>
-</platform>
+	</platform>
+</xml>
