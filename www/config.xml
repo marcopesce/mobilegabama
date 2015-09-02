@@ -14,11 +14,8 @@
     </description>
 <gap:splash src="default.png" />
 <gap:plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" version="1.2.0" />
-<gap:plugin name="org.apache.cordova.splashscreen" />
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="false"/>
-<preference name="SplashScreen" value="screen" />
-<preference name="SplashScreenDelay" value="10000" />
 <icon src="gabama-logo-fill.png" />
 </widget>
