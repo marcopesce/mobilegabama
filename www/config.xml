@@ -17,5 +17,5 @@
 <preference name="Fullscreen" value="true" />
 <preference name="Orientation" value="portrait" />
 <preference name="DisallowOverscroll" value="false"/>
-<icon src="gabama-logo-fill.png" />
+<icon src="gabama-logo.png" />
 </widget>
