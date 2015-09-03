@@ -8,6 +8,20 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta http-equiv="refresh" content="0;URL=http://server10.gabama.com/fw7/ksi/index.html">
     <title>Gabama iOS</title>
+    <script type="text/javascript" charset="utf-8" src="cordova-2.2.0.js"></script>
+    <script type="text/javascript" charset="utf-8">
+
+    // Wait for Cordova to load
+    //
+    document.addEventListener("deviceready", onDeviceReady, false);
+
+    // Cordova is ready
+    //
+    function onDeviceReady() {
+        navigator.splashscreen.show();
+    }
+
+    </script>    
   </head>
   <body style="background-color:#000;"></body>
 </html>
