@@ -12,7 +12,7 @@
     <description>
         test. 
     </description>
-<gap:plugin name="de.appplant.cordova.plugin.hidden-statusbar-overlay" version="1.2.0" />
+
 <gap:plugin name="org.apache.cordova.splashscreen" />
 
 <!-- iPhone 6 -->
